@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1082001139918",
+    "project_id": "gadsapp-7dd35",
+    "storage_bucket": "gadsapp-7dd35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082001139918:android:4eb972c4aeab1b1137089f",
+        "android_client_info": {
+          "package_name": "com.codingstuff.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082001139918-3kd7dt43sr4ljcugarhci0gt08ncfskh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingstuff.loginandsignup",
+            "certificate_hash": "b6e1add22f91e0a8ab2f553b3e86ddb5e61b6c0a"
+          }
+        },
+        {
+          "client_id": "1082001139918-hripj4u2v4645ov2g5jrk0rh9c0um94c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZJsCSy7baQx3QSu7GRIqWQZJ9_4dyEv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082001139918-hripj4u2v4645ov2g5jrk0rh9c0um94c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
